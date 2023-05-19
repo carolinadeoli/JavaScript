@@ -28,6 +28,7 @@ section{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.856);
     margin:auto;
     margin-top: 15px;
+    padding:15px;
     
 }
 
@@ -37,8 +38,15 @@ footer{
     margin-top: 25px;
     font-style: italic;
 }
-imgs{
-    width:250px;
-    height: 250px;
+img{
+    position: absolute;
+    top:22%;
+    left:48%;
+    transform: translate(-30%, 22%);
+    width:230px;
+    height: 230px;
     border-radius: 50%;
+    
+
+    
 }
